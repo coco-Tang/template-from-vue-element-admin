@@ -14,7 +14,7 @@
     "core-js": "^2.6.5",
     "element-ui": "^2.8.2",
     "js-cookie": "^2.2.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "normalize.css": "^8.0.1",
     "nprogress": "^0.2.0",
     "qs": "^6.7.0",

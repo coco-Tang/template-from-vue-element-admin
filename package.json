@@ -17,7 +17,7 @@
     "moment": "^2.24.0",
     "normalize.css": "^8.0.1",
     "nprogress": "^0.2.0",
-    "qs": "^6.7.0",
+    "qs": "^6.7.3",
     "vue": "^2.6.10",
     "vue-property-decorator": "^8.1.1",
     "vue-router": "^3.0.6",
